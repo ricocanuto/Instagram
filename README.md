@@ -1,6 +1,6 @@
 <h1>Replicando o site Instagram</h1>
 <br>
-<h2>Nesse projeto pude praticar várias ferramentas aliada às tecnologias:</h2>
+<h2>Nesse projeto pude praticar várias ferramentas aliadas às tecnologias:</h2>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
